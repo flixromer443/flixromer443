@@ -38,10 +38,10 @@
 <img style="width:50px;height:50px" alt="ActiveMQ" src="https://github.com/flixromer443/flixromer443/blob/main/images/activemq.svg"/>  
 </figure>
 <figure>
-  <img style="width:50px;height:50px" alt="Apache Camel" src="https://github.com/flixromer443/flixromer443/blob/main/images/camel.svg"/>
+  <img style="width:50px;height:50px" alt="Angular" src="https://github.com/flixromer443/flixromer443/blob/main/images/angular-icon-svgrepo-com.svg"/>
 </figure>  
 <figure>
- <img style="width:50px;height:50px" alt="Keycloak" src="https://github.com/flixromer443/flixromer443/blob/main/images/keycloak.svg"/> 
+ <img style="width:50px;height:50px" alt="React" src="https://github.com/flixromer443/flixromer443/blob/main/images/react-svgrepo-com.svg"/> 
 </figure>  
 <figure>
  <img style="width:50px;height:50px" alt="Redis" src="https://github.com/flixromer443/flixromer443/blob/main/images/redis.svg"/> 
