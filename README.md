@@ -35,7 +35,7 @@
   <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/main/images/kafka.svg"/>
 </figure>  
 <figure>
-<img style="width:50px;height:50px" alt="ActiveMQ" src="https://github.com/flixromer443/flixromer443/blob/main/images/activemq.svg"/>  
+<img style="width:50px;height:50px" alt="Jenkins" src="https://github.com/flixromer443/flixromer443/blob/main/images/jenkins.svg"/>  
 </figure>
 <figure>
   <img style="width:50px;height:50px" alt="Angular" src="https://github.com/flixromer443/flixromer443/blob/main/images/angular-icon-svgrepo-com.svg"/>
