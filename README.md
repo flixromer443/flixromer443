@@ -3,9 +3,6 @@
 <div align="left">
   On this profile, you'll find a collection of projects that I've created to assist myself and my fellow developers by providing valuable learning resources.     
 </div>
-<div align="left">
-  I like helping others in their coding journey and fostering a sense of growth and collaboration within the community.    
-</div>  
 <br/>
 
 <div style="display: flex; flex-direction: row;">
