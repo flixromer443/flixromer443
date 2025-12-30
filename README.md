@@ -19,23 +19,23 @@
   <img style="width:50px;height:50px" alt="Spring Framework" src="https://github.com/flixromer443/flixromer443/blob/main/images/spring.svg"/>
 </figure>  
 <figure>
-<img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/flixromer443/flixromer443/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/javafx.svg"/>
+<img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/flixromer443/flixromer443/blob/main/images/javafx.svg"/>
 </figure>
 <figure>
-<img style="width:50px;height:50px" alt="Android" src="https://github.com/flixromer443/flixromer443/blob/4d019d445ab73e149c2b6ac0cb6d1a596a97d28a/images/android.svg"/>
+<img style="width:50px;height:50px" alt="Android" src="https://github.com/flixromer443/flixromer443/blob/main/images/android.svg"/>
 </figure>  
 <figure>
 <img style="width:50px;height:50px" alt="Hibernate" src="https://github.com/flixromer443/flixromer443/blob/main/images/hibernate.svg"/>  
 </figure>
 <figure>
 <img style="height:50px;" alt="JasperReports" 
-  src="https://github.com/flixromer443/flixromer443/blob/deb9e3d9cba7190b04afdb1352b299f888e49546/images/jasperreports.svg"/>
+  src="https://github.com/flixromer443/flixromer443/blob/main/images/jasperreports.svg"/>
 </figure>
 <figure>
 <img style="width:50px;height:50px" alt="Drools" src="https://github.com/flixromer443/flixromer443/blob/main/images/drools.svg"/>  
 </figure>  
 <figure>
-  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/e27647f2672bc1f15d2a1775e8be9e2455730d7c/images/kafka.svg"/>
+  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/main/images/kafka.svg"/>
 </figure>  
 <figure>
 <img style="width:50px;height:50px" alt="ActiveMQ" src="https://github.com/flixromer443/flixromer443/blob/main/images/activemq.svg"/>  
