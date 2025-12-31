@@ -53,4 +53,106 @@
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/flixromer443/flixromer443/blob/main/images/kubernetes.svg"/>
 </figure>
 
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/intellij.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/datagrip-icon.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/tomcat-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/wildfly-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/html-5-svgrepo-com.svg" alt="CSS" class="skills-img" loading="lazy" title="CSS">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/springio-icon.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/mongodb-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/html.webp" alt="CSS" class="skills-img" loading="lazy" title="CSS">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/visual-studio-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/js.webp" alt="JavaScript" class="skills-img" loading="lazy" title="JavaScript">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/jquery-1-logo-svgrepo-com.svg" alt="Node" class="skills-img" loading="lazy" title="Node">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/redux-logo-svgrepo-com.svg" alt="React" class="skills-img" loading="lazy" title="Angular">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/react.webp" alt="React" class="skills-img" loading="lazy" title="Angular">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/node-js.webp" alt="Node" class="skills-img" loading="lazy" title="Node">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/csharp-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/angular-icon-svgrepo-com.svg" alt="Angular" class="skills-img" loading="lazy" title="JavaScript">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/azure-devops-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/npm-svgrepo-com.svg" alt="React" class="skills-img" loading="lazy" title="Angular">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/kubernetes-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/docker-whale.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/java-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/bootstrap-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/linux-tux-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/python-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/git.webp" alt="Git" class="skills-img" loading="lazy" title="Git">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/graphql.webp" alt="Graph Ql" class="skills-img" loading="lazy"title="Graph QL">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/shell.webp" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/soapui_93772.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/visual-studio-code-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/postgresql-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/materialui-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/sonarqube-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
+ <img src="https://github.com/flixromer443/flixromer443/blob/main/images/postman-icon-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
 </div>
