@@ -1,4 +1,4 @@
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=flixromer443\&show_icons=true\&show_owner=false\&hide_rank=true\&rank_icon=github\&hide=contribs,issues,rating\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/flixromer443)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=flixromer443\&show_icons=true\&show_owner=false\&hide_rank=true\&rank_icon=github\&hide=contribs,issues,rating\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/flixromer443)
 
 <div align="left">
   On this profile, you'll find a collection of projects that I've created to assist myself and my fellow developers by providing valuable learning resources.     
