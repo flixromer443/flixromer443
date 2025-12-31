@@ -72,9 +72,6 @@
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/html-5-svgrepo-com.svg" alt="CSS" class="skills-img" loading="lazy" title="CSS">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/springio-icon.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/mongodb-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
@@ -91,9 +88,6 @@
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redux-logo-svgrepo-com.svg" alt="React" class="skills-img" loading="lazy" title="Angular">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/react.webp" alt="React" class="skills-img" loading="lazy" title="Angular">
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/node-js.webp" alt="Node" class="skills-img" loading="lazy" title="Node">
