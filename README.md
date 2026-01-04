@@ -24,7 +24,7 @@
 </figure>
 
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/aws.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/lambda.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
  <img style="width:50px;height:50px" alt="React" src="https://github.com/flixromer443/flixromer443/blob/main/images/react-svgrepo-com.svg"/> 
