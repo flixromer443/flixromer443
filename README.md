@@ -24,16 +24,16 @@
 </figure>
 
 <figure>
-<img style="width:50px;height:50px" alt="Jenkins" src="https://github.com/flixromer443/flixromer443/blob/main/images/jenkins.svg"/>  
-</figure>
-<figure>
-  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/main/images/kafka.svg"/>
-</figure>  
-<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/aws.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
  <img style="width:50px;height:50px" alt="React" src="https://github.com/flixromer443/flixromer443/blob/main/images/react-svgrepo-com.svg"/> 
+</figure> 
+<figure>
+<img style="width:50px;height:50px" alt="Jenkins" src="https://github.com/flixromer443/flixromer443/blob/main/images/jenkins.svg"/>  
+</figure>
+<figure>
+  <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/main/images/kafka.svg"/>
 </figure>  
 <figure>
  <img style="width:50px;height:50px" alt="Redis" src="https://github.com/flixromer443/flixromer443/blob/main/images/redis.svg"/> 
