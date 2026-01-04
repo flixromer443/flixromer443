@@ -13,9 +13,6 @@
   <img style="width:50px;height:50px" alt="Spring Framework" src="https://github.com/flixromer443/flixromer443/blob/main/images/spring.svg"/>
 </figure>  
 <figure>
-<img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/flixromer443/flixromer443/blob/main/images/javafx.svg"/>
-</figure>
-<figure>
 <img style="width:50px;height:50px" alt="Hibernate" src="https://github.com/flixromer443/flixromer443/blob/main/images/hibernate.svg"/>  
 </figure>
 <figure>
@@ -24,6 +21,9 @@
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
+<figure>
+<img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/flixromer443/flixromer443/blob/main/images/javascript.svg"/>
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/amazon-web-services-4.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
