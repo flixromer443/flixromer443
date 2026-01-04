@@ -51,8 +51,9 @@
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postgresql-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/swagger-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
+
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/tomcat-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
@@ -94,10 +95,11 @@
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postman-icon-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/swagger-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
+
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/python-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
+</figure>
+<figure>
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
 </div>
