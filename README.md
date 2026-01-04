@@ -22,9 +22,7 @@
 <img style="height:50px;" alt="JasperReports" 
   src="https://github.com/flixromer443/flixromer443/blob/main/images/jasperreports.svg"/>
 </figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
-</figure>
+
 <figure>
   <img style="width:50px;height:50px" alt="Apache Kafka" src="https://github.com/flixromer443/flixromer443/blob/main/images/kafka.svg"/>
 </figure>  
@@ -46,7 +44,9 @@
 <figure>
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/flixromer443/flixromer443/blob/main/images/kubernetes.svg"/>
 </figure>
-	
+<figure>
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
+</figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/tomcat-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
