@@ -30,7 +30,7 @@
 <img style="width:50px;height:50px" alt="Jenkins" src="https://github.com/flixromer443/flixromer443/blob/main/images/jenkins.svg"/>  
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/python-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/aws.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
  <img style="width:50px;height:50px" alt="React" src="https://github.com/flixromer443/flixromer443/blob/main/images/react-svgrepo-com.svg"/> 
@@ -93,9 +93,9 @@
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postman-icon-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/aws.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/swagger-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/swagger-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/python-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
 </figure>
 </div>
