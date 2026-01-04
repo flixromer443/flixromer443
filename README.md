@@ -45,6 +45,12 @@
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/flixromer443/flixromer443/blob/main/images/kubernetes.svg"/>
 </figure>
 <figure>
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/graphql.webp" alt="Graph Ql" class="skills-img" loading="lazy"title="Graph QL">
+</figure>
+<figure>
+ <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postgresql-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
+</figure>
+<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
 <figure>
@@ -74,15 +80,11 @@
 <figure>
   <img style="width:50px;height:50px" alt="Angular" src="https://github.com/flixromer443/flixromer443/blob/main/images/angular-icon-svgrepo-com.svg"/>
 </figure>  
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/graphql.webp" alt="Graph Ql" class="skills-img" loading="lazy"title="Graph QL">
-</figure>
+
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/soapui_93772.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postgresql-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
+
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/materialui-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
