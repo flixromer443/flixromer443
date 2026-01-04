@@ -10,17 +10,11 @@
   <img style="width:50px;height:50px" alt="Java" src="https://github.com/flixromer443/flixromer443/blob/main/images/java.svg"/>
 </figure>  
 <figure>
-  <img style="width:50px;height:50px" alt="Javascript" src="https://github.com/flixromer443/flixromer443/blob/main/images/javascript.svg"/>
-</figure> 
-<figure>
   <img style="width:50px;height:50px" alt="Spring Framework" src="https://github.com/flixromer443/flixromer443/blob/main/images/spring.svg"/>
 </figure>  
 <figure>
 <img style="width:50px;height:50px" alt="JavaFX" src="https://github.com/flixromer443/flixromer443/blob/main/images/javafx.svg"/>
 </figure>
-<figure>
-<img style="width:50px;height:50px" alt="Android" src="https://github.com/flixromer443/flixromer443/blob/main/images/android.svg"/>
-</figure>  
 <figure>
 <img style="width:50px;height:50px" alt="Hibernate" src="https://github.com/flixromer443/flixromer443/blob/main/images/hibernate.svg"/>  
 </figure>
@@ -52,13 +46,7 @@
 <figure>
   <img style="width:50px;height:50px" alt="Kubernetes" src="https://github.com/flixromer443/flixromer443/blob/main/images/kubernetes.svg"/>
 </figure>
-
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/intellij.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/datagrip-icon.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
-</figure>
+	
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/tomcat-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
@@ -69,19 +57,7 @@
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/redhat-icon-svgrepo-com.svg" alt="Docker" class="skills-img" loading="lazy" title="Docker">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/html-5-svgrepo-com.svg" alt="CSS" class="skills-img" loading="lazy" title="CSS">
-</figure>
-<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/mongodb-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/html.webp" alt="CSS" class="skills-img" loading="lazy" title="CSS">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/visual-studio-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/js.webp" alt="JavaScript" class="skills-img" loading="lazy" title="JavaScript">
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/jquery-1-logo-svgrepo-com.svg" alt="Node" class="skills-img" loading="lazy" title="Node">
@@ -96,31 +72,13 @@
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/azure-devops-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/npm-svgrepo-com.svg" alt="React" class="skills-img" loading="lazy" title="Angular">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/bootstrap-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/linux-tux-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
-</figure>
-<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/python-colour.svg" alt="Docker" class="skills-img" loading="lazy"title="Docker">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/git.webp" alt="Git" class="skills-img" loading="lazy" title="Git">
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/graphql.webp" alt="Graph Ql" class="skills-img" loading="lazy"title="Graph QL">
 </figure>
 <figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/shell.webp" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/soapui_93772.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/visual-studio-code-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/postgresql-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
@@ -139,8 +97,5 @@
 </figure>
 <figure>
  <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/swagger-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
-</figure>
-<figure>
- <img style="width:50px;height:50px" src="https://github.com/flixromer443/flixromer443/blob/main/images/php-svgrepo-com.svg" alt="Shell" class="skills-img" loading="lazy" title="Shell">
 </figure>
 </div>
